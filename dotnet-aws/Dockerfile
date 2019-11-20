@@ -1,4 +1,4 @@
-FROM danielmunchcko/dotnet:2.1.402
+FROM stefanogajoncko/dotnet:2.1.402
 
 # Get latest version of AWS command line tools
 # https://docs.aws.amazon.com/cli/latest/userguide/installing.html
