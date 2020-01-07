@@ -1,4 +1,4 @@
-FROM stefanogajoncko/dotnet:2.2.100
+FROM flaviocadetecko/dotnet:2.1.802
 
 # Build steps taken from official node image sources 
 # https://github.com/nodejs/docker-node/blob/58dbead97e921ff0497863d2cbbcc714f97e1d93/10/stretch/Dockerfile

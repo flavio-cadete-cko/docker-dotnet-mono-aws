@@ -1,3 +1,3 @@
-VERSION=2.2.100
-docker build -t stefanogajoncko/dotnet:$VERSION .
-docker push stefanogajoncko/dotnet:$VERSION
+VERSION=2.1.802
+docker build -t flaviocadetecko/dotnet:$VERSION .
+docker push flaviocadetecko/dotnet:$VERSION

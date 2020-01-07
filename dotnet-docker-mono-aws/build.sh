@@ -1,3 +1,3 @@
-VERSION=2.2.100-mono-6.4.0-aws-1.16.286
-docker build -t stefanogajoncko/dotnet-mono-aws:$VERSION .
-docker push stefanogajoncko/dotnet-mono-aws:$VERSION
+VERSION=2.1.802-mono-6.6.0.161-aws-1.16.286
+docker build -t flaviocadetecko/dotnet-mono-aws:$VERSION .
+docker push flaviocadetecko/dotnet-mono-aws:$VERSION

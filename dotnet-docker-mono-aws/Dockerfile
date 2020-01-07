@@ -1,4 +1,4 @@
-FROM stefanogajoncko/dotnet:2.2.100
+FROM flaviocadetecko/dotnet:2.1.802
 
 # Install mono latest
 # http://www.mono-project.com/download/#download-lin-debian

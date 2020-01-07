@@ -1,3 +1,3 @@
-VERSION=2.1.402-aws-1.16.47
-docker build -t stefanogajoncko/dotnet:$VERSION .
-docker push stefanogajoncko/dotnet:$VERSION
+VERSION=2.1.802-aws-1.16.286
+docker build -t flaviocadetecko/dotnet:$VERSION .
+docker push flaviocadetecko/dotnet:$VERSION
